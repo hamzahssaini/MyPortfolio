@@ -21,13 +21,11 @@ Ce dépôt contient mon **portfolio complet (PDF)** ainsi qu’une version en li
 ---
 
 ## 🚀 Projets en avant
-- [Kubernetes Project](https://github.com/hamzahssaini/Kubernetes-Project)  
-- [Azure Labs](#)  
-- [Migration Node.js + MongoDB → Azure](#)  
-- [Project-azure-ansible-nginx-deployment] 
-(https://github.com/hamzahssaini/Project-azure-ansible-nginx-deployment)
-- [private-cloud-media-server]
-(https://github.com/hamzahssaini/private-cloud-media-server)
+- [Kubernetes Project](https://github.com/hamzahssaini/Kubernetes-Project)  🐳 ☸️
+- [Azure Labs](#) ☁️ 🔒 
+- [Migration Node.js + MongoDB → Azure](#)  ⚡ 🍃
+- [Project-azure-ansible-nginx-deployment](https://github.com/hamzahssaini/Project-azure-ansible-nginx-deployment) 🤖 🖥️
+- [private-cloud-media-server](https://github.com/hamzahssaini/private-cloud-media-server) 🎥 ☁️
 
 ---
 

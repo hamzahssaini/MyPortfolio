@@ -8,7 +8,7 @@ Ce dépôt contient mon **portfolio complet (PDF)** ainsi qu’une version en li
 
 ## 📄 Mon Portfolio
 - 📥 [Télécharger le portfolio PDF](./Hamza_Hssaini_Cloud_DevOps_Portfolio.pdf)
-- 🌍 [Consulter la version en ligne](https://hamzahssaini.github.io/hamza-portfolio/)
+- 🌍 [Consulter la version en ligne](https://hamzahssaini.github.io/MyPortfolio/)
 
 ---
 
